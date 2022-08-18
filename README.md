@@ -1,2 +1,2 @@
 # 人生标本
-T-Lab分享Slide
+T-Lab分享Slides
